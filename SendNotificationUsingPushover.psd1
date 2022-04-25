@@ -30,7 +30,7 @@ CompanyName = ''
 Copyright = '(c) 2022 Mateusz Pieła. on MIT License.'
 
 # Description of the functionality provided by this module
-Description = 'This module add sending push notifications using PushOver'
+Description = 'This module add sending push notifications using PushOver (This module for PowerShell is not endorsed/affiliated by/with PushOver.NET)'
 
 # Minimum version of the Windows PowerShell engine required by this module
 PowerShellVersion = '5.1'
